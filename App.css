@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url(https://img.freepik.com/free-vector/gradient-geometric-background_23-2148808998.jpg?size=626&ext=jpg&ga=GA1.2.1457752128.1675103979);
+  background-size: 100%;
+}
+
+.main{
+  border-width: 5px;
+  border-style: double;
+}
+
+.row{
+  padding-left: 20%;
+  align-self: center;
+}
+
+.side-nav{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-style: inherit;
+  list-style-type: disc;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+.newTask-box{
+   width: 200px;
+   padding: 20px;
+   border: 5px;
+   padding-left: 40%;
+}
+
+.box{
+  padding: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: aliceblue;
+}
+
+.Main-Section{
+  text-align: center;
+  padding: 40px;
+  border-style: double;
+  margin-right: 20%;
+  margin-top: 5%;
+  border-width: 5px;
+  background-image: linear-gradient(to bottom right,blue, skyblue,aqua);
+}
+
